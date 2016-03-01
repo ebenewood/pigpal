@@ -41,3 +41,5 @@ $(function () {
   console.log(arrMake($('input#stuff').val()));
   event.preventDefault();
 });
+
+/* right now there is the matter of trying to figure out why the console.log won't occur'*/
